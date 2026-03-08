@@ -120,7 +120,6 @@ Skomentuj wyniki. Przetestuj czy średnie w tych dwóch populacjach są sobie r�
 
 
 * 1D Czy na podstawie wyników z podpunktu 2C można stwierdzić, że dostęp do elektryczności "powoduje" spadek liczby posiadanych dzieci?
-* ODPOWIEDŹ: NIE. Możemy powiedzieć jedynie, że różnica w średniej liczbie dzieci w tych dwóch grupach jest statystycznie istotna. Nasz prosta regresa nie uwzględnia innych kluczowych zmiennych, które są skorelowane z elektrycznością.
 
 
 
